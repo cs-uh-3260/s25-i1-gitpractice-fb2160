@@ -8,3 +8,8 @@ One particularly valuable point is the discussion of trade-offs. The article rem
 
 I see this perspective to be especially important for startups or small teams, where resources and time are limited.
 
+Proof Reading:
+
+Article checked for typos.
+
+
