@@ -3,3 +3,5 @@
 A simple project to practice a few git/github workflows.  Update this file as instructed in [instructions](./instructions.md).
 
 Name: Fahad Bin Fahad Almheiri
+
+Link to my pull request: [View PR](https://github.com/cs-uh-3260/s25-i1-gitpractice-IzahSohail/pull/2#issue-2822618237)
