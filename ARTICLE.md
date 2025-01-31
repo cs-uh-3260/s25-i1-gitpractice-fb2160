@@ -8,5 +8,9 @@ One particularly valuable point is the discussion of trade-offs. The article rem
 
 I see this perspective to be especially important for startups or small teams, where resources and time are limited.
 
-##Peer Review by Event
-I found this article particulary interesting as we are all Computer Science students with the dream of creating something of our own in the near future. The industry can appear very scary at times, especially with tech giants like Google and Amazon. Nevertheless, it is highly important to stay focused on our individual goals and remember that the hardest part of developing a software is writing its requirements, which is what makes the product unique.
+## Peer Review by Event
+I found this article particularly interesting as we are all Computer Science students with the dream of creating something of our own in the near future.
+
+## Proof Reading
+Article checked for typos.
+
