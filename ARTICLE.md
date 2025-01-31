@@ -8,8 +8,9 @@ One particularly valuable point is the discussion of trade-offs. The article rem
 
 I see this perspective to be especially important for startups or small teams, where resources and time are limited.
 
-Proof Reading:
+## Peer Review by Event
+I found this article particularly interesting as we are all Computer Science students with the dream of creating something of our own in the near future.
 
+## Proof Reading
 Article checked for typos.
-
 
